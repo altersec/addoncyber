@@ -1,6 +1,6 @@
 # AddonCyber
 
-AddonCyber is a simple browser extension to assist SOC teams, cybersecurity researchers and analysts in day-to-day work
+AddonCyber is a simple open-source browser extension to assist SOC teams, cybersecurity researchers and analysts in day-to-day threat inteligence and security operations. 
 
 Using a browser, highlight the indicator: IP, URL, domain, file hash, CVE number, base64 encoded text, and opt to search various threat intel services for the IOC, search for a CVE, decode base64, etc
 
@@ -20,6 +20,11 @@ Current options:
 NOTE: Some options may require authenticated access.
 Services that require an API key (like VT) use the PHP script in the extra folder hosted by alterSec.
 Users should host their own instance on public web server, configured with your specific VT API key.
+
+## Screenshots
+
+![Screenshot](screenshots/screenshot1.png?raw=true)
+![Screenshot](screenshots/screenshot1.png?raw=true)
 
 ## Getting Started
 
