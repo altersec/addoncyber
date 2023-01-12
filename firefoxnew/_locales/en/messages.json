@@ -1,0 +1,12 @@
+{
+  "extensionName": {
+    "message": "AddonCyber",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Simple open-source browser extension to assist SOC teams, cybersecurity researchers and analysts in day-to-day threat inteligence and security operations",
+    "description": "Description of the add-on."
+  }
+
+}
