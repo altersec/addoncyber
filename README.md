@@ -30,7 +30,8 @@ Users should host their own instance on public web server, configured with your 
 
 Clone the github repo to a local folder and [Sideload extension in Edge](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading)
 
-For Firefox installation you can go to about:debugging | Temporary Extensions | Load Temporary Add-on
+For Firefox installation you can go to:
+about:debugging | Temporary Extensions | Load Temporary Add-on
 
 
 ## WIP/TBD
