@@ -18,7 +18,7 @@ browser.menus.create({
 
 browser.menus.create({
   id: "VTid",
-  title: "T search: '%s'",
+  title: "VT search: '%s'",
   contexts: ["selection"]
 }, onCreated);
 

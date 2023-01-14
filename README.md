@@ -32,6 +32,7 @@ Clone the github repo to a local folder and [Sideload extension in Edge](https:/
 
 For Firefox installation you can go to:
 about:debugging | Temporary Extensions | Load Temporary Add-on
+and select the manifest.json file
 
 
 ## WIP/TBD
