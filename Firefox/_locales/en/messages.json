@@ -1,7 +1,7 @@
 {
   "extensionName": {
     "message": "AddonCyber",
-    "description": "Name of the extension."
+    "description": "Search IPs, Domains, URLs, hashes or encoded text and IOCs on various services"
   },
 
   "extensionDescription": {
