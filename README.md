@@ -4,10 +4,12 @@ AddonCyber is a simple open-source browser extension to assist SOC teams, cybers
 
 Using a browser, highlight the indicator: IP, URL, domain, file hash, CVE number, base64 encoded text, and opt to search various threat intel services for the IOC, search for a CVE, decode base64, etc
 
+[Install from chrome web store](https://chrome.google.com/webstore/detail/addoncyber/cjmjpemcghhoppbadfkocbflhbfdppfg)
+
 Made by [alterSec](https://altersec.com/) under Apache license. 
 Any feedback and PR welcomed!
 
-Current options:
+Current extension options:
   * [Talos Reputation](https://talosintelligence.com/)
   * [Virus Total](https://developers.virustotal.com/reference/search-1) - requires API key
   * [OTX](https://otx.alienvault.com/)
