@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "AddonCyber",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Search IPs, Domains, URLs, hashes or encoded text and IOCs on various services",
   "author": "alterSec Ltd",
   "homepage_url": "https://github.com/altersec/addoncyber",
@@ -15,7 +15,6 @@
     "service_worker": "background.js"
   },
   "permissions": [
-    "activeTab", 
     "contextMenus"],
   "host_permissions": [
     "https://altersec.com/",
