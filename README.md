@@ -4,6 +4,7 @@ AddonCyber is a simple open-source browser extension to assist SOC teams, cybers
 
 Using a browser, highlight the indicator: IP, URL, domain, file hash, CVE number, base64 encoded text, and opt to search various threat intel services for the IOC, search for a CVE, decode base64, etc
 
+[Install from Edge web store](https://microsoftedge.microsoft.com/addons/detail/addoncyber/nnhjdbhefmokkamiebnmbmkcafobidna)
 [Install from chrome web store](https://chrome.google.com/webstore/detail/addoncyber/cjmjpemcghhoppbadfkocbflhbfdppfg)
 
 Made by [alterSec](https://altersec.com/) under Apache license. 
