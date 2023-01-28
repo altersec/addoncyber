@@ -4,8 +4,9 @@ AddonCyber is a simple open-source browser extension to assist SOC teams, cybers
 
 Using a browser, highlight the indicator: IP, URL, domain, file hash, CVE number, base64 encoded text, and opt to search various threat intel services for the IOC, search for a CVE, decode base64, etc
 
-[Install from Edge web store](https://microsoftedge.microsoft.com/addons/detail/addoncyber/nnhjdbhefmokkamiebnmbmkcafobidna)
-[Install from chrome web store](https://chrome.google.com/webstore/detail/addoncyber/cjmjpemcghhoppbadfkocbflhbfdppfg)
+**[Install from Edge web store](https://microsoftedge.microsoft.com/addons/detail/addoncyber/nnhjdbhefmokkamiebnmbmkcafobidna)**
+
+**[Install from chrome web store](https://chrome.google.com/webstore/detail/addoncyber/cjmjpemcghhoppbadfkocbflhbfdppfg)**
 
 Made by [alterSec](https://altersec.com/) under Apache license. 
 Any feedback and PR welcomed!
@@ -31,20 +32,29 @@ Users should host their own instance on public web server, configured with your 
 
 ## Getting Started
 
-Clone the github repo to a local folder and [Sideload extension in Edge](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading)
+If you just want to use the addon:
 
-For Firefox installation you can go to:
+**[Install from Edge web store](https://microsoftedge.microsoft.com/addons/detail/addoncyber/nnhjdbhefmokkamiebnmbmkcafobidna)**
+
+**[Install from chrome web store](https://chrome.google.com/webstore/detail/addoncyber/cjmjpemcghhoppbadfkocbflhbfdppfg)**
+
+For devs, clone the github repo to a local folder and [Sideload extension in Edge](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading)
+
+For Firefox direct installation you can go to:
+```
 about:debugging | Temporary Extensions | Load Temporary Add-on
+```
 and select the manifest.json file
 
 
 ## WIP/TBD
 
-  * Add extension to stores
-  * Integration with MISP instance, search IOC, add indicator to an event
-  * In-context tooltip option, rather than open in a new tab
-  * Can we improve the code and 
-  * Any other useful services and ideas?
+- [x] Add extension to stores
+- [ ] Integration with MISP instance, search IOC, add indicator to an event
+- [ ] In-context tooltip option, rather than open in a new tab
+- [ ] Better code 
+- [ ] Roadmap of useful services and ideas
+- [ ] All tasks are complete :tada:
 
 ## References
 
